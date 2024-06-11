@@ -1,0 +1,20 @@
+[29-Aug-2023 05:52:16 UTC] PHP Warning:  require_once(/home2/plafound/public_html/public): Failed to open stream: No such file or directory in /home2/plafound/public_html/index.php on line 3
+[29-Aug-2023 05:52:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/plafound/public_html/public/' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/plafound/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/plafound/public_html/index.php on line 3
+[29-Aug-2023 05:52:19 UTC] PHP Warning:  require_once(/home2/plafound/public_html/public): Failed to open stream: No such file or directory in /home2/plafound/public_html/index.php on line 3
+[29-Aug-2023 05:52:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/plafound/public_html/public/' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/plafound/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/plafound/public_html/index.php on line 3
+[29-Aug-2023 05:52:20 UTC] PHP Warning:  require_once(/home2/plafound/public_html/public): Failed to open stream: No such file or directory in /home2/plafound/public_html/index.php on line 3
+[29-Aug-2023 05:52:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/plafound/public_html/public/' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/plafound/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/plafound/public_html/index.php on line 3
+[29-Aug-2023 05:52:21 UTC] PHP Warning:  require_once(/home2/plafound/public_html/public): Failed to open stream: No such file or directory in /home2/plafound/public_html/index.php on line 3
+[29-Aug-2023 05:52:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/plafound/public_html/public/' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/plafound/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/plafound/public_html/index.php on line 3
